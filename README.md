@@ -2,8 +2,8 @@
 
 ### WACV 2027
 
-**Seoyoung Hwang and Tae-Kyun Kim**  
-KAIST · Samsung Electronics
+**Seoyoung Hwang<sup>1,2</sup> and Tae-Kyun Kim<sup>1</sup>**  
+<sup>1</sup> KAIST · <sup>2</sup> Samsung Electronics
 
 ## 🏠 [Project Page](https://sy-hwang.github.io/eta-motion-page/) | Paper (Coming soon)
 
