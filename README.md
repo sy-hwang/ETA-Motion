@@ -15,7 +15,7 @@ ETA-Motion is a text-conditioned motion diffusion framework for characters with 
 
 ## 📢 News
 
-- **WACV 2027:** ETA-Motion has been accepted!
+- **October 2026:** ETA-Motion has been accepted to **WACV 2027**!
 
 ## 📋 Release Status
 
