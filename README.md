@@ -5,7 +5,7 @@
 **Seoyoung Hwang<sup>1,2</sup> and Tae-Kyun Kim<sup>1</sup>**  
 <sup>1</sup> KAIST · <sup>2</sup> Samsung Electronics
 
-## 🏠 [Project Page](https://sy-hwang.github.io/eta-motion-page/) | Paper (Coming soon)
+## 🏠 [Project Page](https://sy-hwang.github.io/eta-motion-page/) | [Paper](https://arxiv.org/abs/2610.38259)
 
 ![ETA-Motion teaser](https://raw.githubusercontent.com/sy-hwang/eta-motion-page/main/site/assets/images/teaser.webp)
 
@@ -15,6 +15,7 @@ ETA-Motion is a text-conditioned motion diffusion framework for characters with 
 
 ## 📢 News
 
+- **October 2026:** Our [paper](https://arxiv.org/abs/2610.38259) is now available on arXiv!
 - **October 2026:** ETA-Motion has been accepted to **WACV 2027**!
 
 ## 📋 Release Status
@@ -23,7 +24,7 @@ The code is being prepared for release. This repository will be updated with the
 
 - [ ] Release code
 - [ ] Add installation and usage instructions
-- [ ] Add the paper link
+- [x] Add the paper link
 
 ## Citation
 
